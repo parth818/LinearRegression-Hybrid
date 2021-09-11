@@ -1,1 +1,1 @@
-# parth818-LinearRegression-Hybrid
+# LinearRegression-Hybrid
