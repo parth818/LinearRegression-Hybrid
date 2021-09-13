@@ -4,7 +4,7 @@
 <tr>
 <td style="width: 100%;">
 <h2 style="text-align: justify;">About the Dataset</h2>
-<p style="text-align: justify;">This dataset was originally published in book <strong>"Machine Learning with R by Brett Lantz"</strong>. It consists of 1338 records and 7 features for prediction of insurance charges in United States.. The 6 independent features can be used to predict the dependent feature 'charges'.</p>
+<p style="text-align: justify;">This dataset was originally published in book <strong>"Machine Learning with R by Brett Lantz"</strong>. It consists of 1338 records and 7 features for prediction of insurance charges in United States. The 6 independent features can be used to predict the dependent feature 'charges'.</p>
 <p style="text-align: justify;"><strong>The dataset contains 6 independent features as listed below:</strong></p>
 <ul style="text-align: justify;">
 <li>
